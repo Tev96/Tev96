@@ -11,5 +11,6 @@ I first learned to code at the beginning of 2019 but I literally had no luck wit
 
 Not until August 2021 did I ACTUALLY start learning programming and coding in a way that worked for me. After two years of self learning. I've finally knew how to learn coding by trial and error 
 
+Now, I enjoy learning new technologies and new programming languages by making something from scratch step by step as well as working on real-world projects
 
 # Recent Projects & Achievements 
