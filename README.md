@@ -9,6 +9,7 @@ I was, by all means, a non-tech person growing up without my own computer in a n
 
 I first learned to code at the beginning of 2019 but I literally had no luck with it. I struggled to retain things, and I couldn’t get things to stick. I could not have hated coding more than I did at the time. 
 
+Not until August 2021 did I ACTUALLY start learning programming and coding in a way that worked for me. After two years of self learning. I've finally knew how to learn coding by trial and error 
 
 
 # Recent Projects & Achievements 
