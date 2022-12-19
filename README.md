@@ -44,4 +44,5 @@ Now, I enjoy learning new technologies and new programming languages by making s
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="DB977E91-FF40-4766-9282-BA227F1339E0.jpeg" alt="ES6" height="40" style="vertical-align:top; margin:4px"> 
+<img src="9361878B-CA7C-4900-8CDA-2AB4871CAD54.png" alt="JS" height ="40"  style="vertical-align:top; margin:4px"> 
 </p>
