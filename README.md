@@ -1,6 +1,7 @@
 
 ## <strong>Hello, my name is Tevin and I'm a inspiring Web Developer 👨🏾‍💻 </strong>
 
+
  <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -37,18 +38,10 @@ Now, I enjoy learning new technologies and new programming languages by making s
 
 
 
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
+## Languages:          
 
-
-
-
-
-
-
-
-
-
-## Languages:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
