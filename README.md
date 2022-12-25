@@ -29,6 +29,8 @@ Now, I enjoy learning new technologies and new programming languages by making s
  2.  [JavaScript Algorithms and Data Structures]()
 
 
+![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
+
 
 
 
