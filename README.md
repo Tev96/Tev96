@@ -20,7 +20,7 @@ Now, I enjoy learning new technologies and new programming languages by making s
 # Recent Achievements 
 
 
-# Certificates
+## Certificates
 
  ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
  
