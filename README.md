@@ -24,9 +24,9 @@ Now, I enjoy learning new technologies and new programming languages by making s
 
  ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
  
- [1.Responsive Web Design]()
+ 1.[Responsive Web Design]()
  
- [2.JavaScript Algorithms and Data Structures]()
+ 2.[JavaScript Algorithms and Data Structures]()
 
 
 
