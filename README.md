@@ -21,7 +21,8 @@ Now, I enjoy learning new technologies and new programming languages by making s
 
 
 
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tev96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
