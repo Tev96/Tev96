@@ -19,6 +19,12 @@ Not until August 2021 did I ACTUALLY start learning programming and coding in a 
 
 Now, I enjoy learning new technologies and new programming languages by making something from scratch step by step as well as working on real-world projects
 
+
+
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+
+
 # Recent Achievements 
 
 
@@ -62,6 +68,9 @@ Now, I enjoy learning new technologies and new programming languages by making s
 ## Tools:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tev96&layout=compact)](https://github.com/Tev96)
 
 
 
