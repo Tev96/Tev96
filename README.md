@@ -23,6 +23,10 @@ Now, I enjoy learning new technologies and new programming languages by making s
 # Certificates
 
  ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+ 
+ [1.Responsive Web Design]()
+ 
+ [2.JavaScript Algorithms and Data Structures]()
 
 
 
@@ -43,7 +47,10 @@ Now, I enjoy learning new technologies and new programming languages by making s
 
 
 ## 🧰 Languages and Tools:
-<p align="center">
-<img src="DB977E91-FF40-4766-9282-BA227F1339E0.jpeg" alt="ES6" height="40" style="vertical-align:top; margin:4px"> 
-<img src="9361878B-CA7C-4900-8CDA-2AB4871CAD54.png" alt="JS" height ="40"  style="vertical-align:top; margin:4px"> 
-</p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
